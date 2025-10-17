@@ -1,4 +1,4 @@
-# {HSL} Oshiri Nou-N-Chi
+# Space Cars BWM Update
 High RolePlay server based on danganronpa the game, yandere simulator, yume nikki & overall anime japanese enternet-culture (!)
 
 
