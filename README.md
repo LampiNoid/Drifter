@@ -1,6 +1,7 @@
-# Drifter: The Last Race
+# {HSL} Oshiri Nou-N-Chi
+High RolePlay server based on danganronpa the game, yandere simulator, yume nikki & overall anime japanese enternet-culture (!)
 
-Another story from Race Track, telling about the BMW vs SMHEGULI aka JIGULI fight. Fast and Drift.
 
-![ваз-2107 (2)](https://github.com/user-attachments/assets/79f93535-cb6a-4bff-a81d-978f2ff88fbd)
+<img width="1280" height="720" alt="изображение" src="https://github.com/user-attachments/assets/984a602c-48f7-4afa-ab8f-df1ce8444cd3" />
+
 
